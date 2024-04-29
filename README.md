@@ -1,3 +1,1 @@
-# Image_processing
-<br>
-Halo ngentot
+Code For Face Detection using internal or external Camera
